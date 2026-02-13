@@ -1,0 +1,430 @@
+Call of Duty: World War II Zombies Weapon IDs ***INCOMPLETE***
+
+List By: idodumbstuff
+
+Notes:
+Some starter weapons have duplicate entries, however they operate the same
+PAP varients will have their normal varients by adding 1 to the ID number and vice versa as shown in the list pattern
+The Bloodthirst Extended varients will not crash your game unless you shoot them
+Game will crash when you switch to broken weapons but you can kinda have them in your inventory (i.e. giving youself weaponID 28)
+Melee weapons act very strange when giving them to yourself and almost always won't work properly
+If a gun is bugging out when you give it, set weapon to a different one and then back
+***********************************************************************************************************************************
+
+Weapon Catagories
+
+
+Tesla Guns
+
+56 - Bloodthirst (Explosive Bolt, Will Not Crash Game)
+57 - Bloodthirst Fully Extended (Will Crash When Fired)
+58 - Bloodthirst Med Extended (Will Crash When Fired)
+159 - AC-AC (Tesla Gun)
+160 - Tesla Gun
+161 - Bloodthirst
+162 - Reaper
+163 - Midnight
+164 - Hurricane
+
+
+Launchers
+
+9 - M1 Bazooka
+32 - Noisy Sauterelle
+33 - Crossbow
+50 - Luftfaust-B
+51 - Fliegerfaust
+127 - Panzerschreck
+
+
+Pistols
+
+39 - Bulldog
+40 - Enfield No.2
+79 - P-08
+80 - G.I.'s Souvenir
+81 - P-08 
+82 - 1911
+83 - Bacon & Eggs (Won't Be Akimbo Using Console/Trainer)
+84 - 1911
+101 - Machine Pistol
+102 - Red 9
+103 - Machine Pistol
+125 - Grey Ghost
+126 - 9mm SAP
+134 - Glucklicher Punk
+135 - Reichsrevolver
+
+
+Rifles
+
+5 - Complex Beat
+6 - AVS-36
+7 - FU-BAR
+8 - BAR
+24 - Slice of Kiwiana
+25 - NZ-41
+45 - First Red Hero
+46 - Automaton
+47 - Device 450
+48 - FG 42
+54 - Barbarossa's Strike
+55 - Gewehr 43
+61 - Compact Chaos
+62 - GBD-79
+69 - Swedish Chocolate
+70 - KG M-21
+87 - Hercules
+88 - ITRA Burst
+89 - Emma-Gee
+90 - M1941
+91 - M2 Carbine
+92 - M1A1 Carbine
+93 - G.O.A.T.
+94 - M1 Garand
+95 - M2A2 Carbine
+96 - M2 Carbine (Different Slightly)
+153 - STG770
+154 - STG44
+155 - Prototype 7
+156 - AS-44
+157 - AVT-40
+158 - SVT-40
+175 - Go Ban
+176 - Type 5
+180 - People's Storm
+181 - Volkssturmgewehr
+184 - Spz-X
+185 - Wimmersperg Spz
+
+
+SMGs
+
+3 - Whispering Winds
+4 - Austen
+10 - Lightning Catcher
+11 - Bechowiec
+12 - The Boot
+13 - Orso
+16 - War-Saw
+17 - Blyskawica
+37 - Bridesmaid
+38 - EMP44
+41 - Groomsmen
+42 - Erma EMP
+59 - The Greaser
+60 - Grease Gun
+97 - The Proven
+98 - M267
+106 - Casket King
+107 - M-38
+119 - Flapjack
+120 - Waffe 28
+121 - Hardly Werkeing
+122 - MP-40
+123 - Tokyo Jam
+124 - Nambu Type 2
+128 - Babushka
+129 - The Classic
+130 - Dedushka
+131 - PPSh-41
+136 - Roland's Count
+137 - Ribeyrolles
+149 - La Resistance
+150 - Sten
+151 - The British 6
+152 - Sterling
+166 - Chicago Typewriter
+167 - M1928
+169 - Dead Leaves
+170 - Proto-X1
+173 - Blood Type
+174 - Type 100
+191 - One-Eyed Mace
+192 - ZK-383
+
+
+LMGs
+
+19 - Good Enough
+20 - GPMG
+21 - Ronnie
+22 - Bren
+26 - The Black Cat
+27 - Chatellerault
+71 - Mad Lad
+72 - LAD Machine Gun
+77 - Belgian Rattlesnake
+78 - Lewis
+85 - Hurt Box
+86 - Stinger
+108 - Prop Shredder
+109 - MG 15
+110 - Bone Saw
+111 - MG 42
+112 - Spandau Serenade
+113 - MG 81
+178 - 78 Deaths
+179 - VMG 1927
+
+
+Sniper Rifles
+
+1 - Defaced Chrysanthemum
+2 - Type 38
+29 - Subsonic Scream
+30 - De Lisle
+5 - War Model
+66 - Kar98k
+67 - White Death
+68 - Karabin
+73 - Smiley
+74 - Lee Enfield
+75 - Trixie
+76 - Lever Action
+104 - Finer Things
+105 - M36
+118 - 3-Line Rifle
+119 - Flapjack
+132 - Tiger Gun
+133 - PTRS-41
+143 - Fuhrer Bane
+144 - SDK 9mm
+147 - Massachusetts
+148 - M1903
+189 - Showstopper
+190 - Wz. 35
+194 - Ronin (Bugged Out Type 38/Defaced Chrysanthemum)
+
+
+Shotguns
+
+14 - Funderbuss
+15 - Blunderbuss
+99 - Trips
+100 - M30 Luftwaffe Drilling
+114 - Sawed-Off Shotgun
+115 - Last Model
+116 - Sawed-Off Shotgun
+182 - Lucky
+183 - Toggle Action
+186 - Combat Shotgun
+187 - Diplomatic Solution
+188 - Combat Shotgun
+
+
+Melee Weapons
+
+640 - Ripsaw
+642 - Map-Specific Upgraded Melee
+
+************************************************************************************************************************************
+
+Numerical Order
+
+1 - Defaced Chrysanthemum
+2 - Type 38
+3 - Whispering Winds
+4 - Austen
+5 - Complex Beat
+6 - AVS-36
+7 - FU-BAR
+8 - BAR
+9 - M1 Bazooka
+10 - Lightning Catcher
+11 - Bechowiec
+12 - The Boot
+13 - Orso
+14 - Funderbuss
+15 - Blunderbuss
+16 - War-Saw
+17 - Blyskawica
+18 - Nothing/May Crash
+19 - Good Enough
+20 - GPMG
+21 - Ronnie
+22 - Bren
+23 - Nothing/May Crash
+24 - Slice of Kiwiana
+25 - NZ-41
+26 - The Black Cat
+27 - Chatellerault
+28 - Will Absolutely Crash Your Game (Weapon Name Is "Default Weapon")
+29 - Subsonic Scream
+30 - De Lisle
+31 - Nothing/May Crash
+32 - Noisy Sauterelle
+33 - Crossbow
+34 - Nothing/May Crash
+35 - Nothing/May Crash
+36 - Nothing/May Crash
+37 - Bridesmaid
+38 - EMP44
+39 - Bulldog
+40 - Enfield No.2
+41 - Groomsmen
+42 - Erma EMP
+43 - Nothing/May Crash
+44 - Nothing/May Crash
+45 - First Red Hero
+46 - Automaton
+47 - Device 450
+48 - FG 42
+49 - Nothing/May Crash
+50 - Luftfaust-B
+51 - Fliegerfaust
+52 - Nothing/May Crash
+53 - Nothing/May Crash
+54 - Barbarossa's Strike
+55 - Gewehr 43
+56 - Bloodthirst (Explosive Bolt, Will Not Crash Game)
+57 - Bloodthirst Fully Extended (Will Crash When Fired)
+58 - Bloodthirst Med Extended (Will Crash When Fired)
+59 - The Greaser
+60 - Grease Gun
+61 - Compact Chaos
+62 - GBD-79
+63 - Nothing/May Crash
+64 - Jack-In-The-Box
+65 - War Model
+66 - Kar98k
+67 - White Death
+68 - Karabin
+69 - Swedish Chocolate
+70 - KG M-21
+71 - Mad Lad
+72 - LAD Machine Gun
+73 - Smiley
+74 - Lee Enfield
+75 - Trixie
+76 - Lever Action
+77 - Belgian Rattlesnake
+78 - Lewis
+79 - P-08
+80 - G.I.'s Souvenir
+81 - P-08 
+82 - 1911
+83 - Bacon & Eggs (Won't Be Akimbo Using Console/Trainer)
+84 - 1911
+85 - Hurt Box
+86 - Stinger
+87 - Hercules
+88 - ITRA Burst
+89 - Emma-Gee
+90 - M1941
+91 - M2 Carbine
+92 - M1A1 Carbine
+93 - G.O.A.T.
+94 - M1 Garand
+95 - M2A2 Carbine
+96 - M2 Carbine (Different Slightly)
+97 - The Proven
+98 - M267
+99 - Trips
+100 - M30 Luftwaffe Drilling
+101 - Machine Pistol
+102 - Red 9
+103 - Machine Pistol
+104 - Finer Things
+105 - M36
+106 - Casket King
+107 - M-38
+108 - Prop Shredder
+109 - MG 15
+110 - Bone Saw
+111 - MG 42
+112 - Spandau Serenade
+113 - MG 81
+114 - Sawed-Off Shotgun
+115 - Last Model
+116 - Sawed-Off Shotgun
+117 - Hot Borshch
+118 - 3-Line Rifle
+119 - Flapjack
+120 - Waffe 28
+121 - Hardly Werkeing
+122 - MP-40
+123 - Tokyo Jam
+124 - Nambu Type 2
+125 - Grey Ghost
+126 - 9mm SAP
+127 - Panzerschreck
+128 - Babushka
+129 - The Classic
+130 - Dedushka
+131 - PPSh-41
+132 - Tiger Gun
+133 - PTRS-41
+134 - Glucklicher Punk
+135 - Reichsrevolver
+136 - Roland's Count
+137 - Ribeyrolles
+138 - Nothing/May Crash
+139 - Nothing/May Crash
+140 - Nothing/May Crash
+141 - Nothing/May Crash
+142 - Nothing/May Crash
+143 - Fuhrer Bane
+144 - SDK 9mm
+145 - Sticky Grenade
+146 - Nothing/May Crash
+147 - Massachusetts
+148 - M1903
+149 - La Resistance
+150 - Sten
+151 - The British 6
+152 - Sterling
+153 - STG770
+154 - STG44
+155 - Prototype 7
+156 - AS-44
+157 - AVT-40
+158 - SVT-40
+159 - AC-AC (Tesla Gun)
+160 - Tesla Gun
+161 - Bloodthirst
+162 - Reaper
+163 - Midnight
+164 - Hurricane
+165 - Nothing/May Crash
+166 - Chicago Typewriter
+167 - M1928
+168 - Throwing Knife
+169 - Dead Leaves
+170 - Proto-X1
+171 - Nothing/May Crash
+172 - Will Absolutely Crash Your Game
+173 - Blood Type
+174 - Type 100
+175 - Go Ban
+176 - Type 5
+177 - Nothing/May Crash
+178 - 78 Deaths
+179 - VMG 1927
+180 - People's Storm
+181 - Volkssturmgewehr
+182 - Lucky
+183 - Toggle Action
+184 - Spz-X
+185 - Wimmersperg Spz
+186 - Combat Shotgun
+187 - Diplomatic Solution
+188 - Combat Shotgun
+189 - Showstopper
+190 - Wz. 35
+191 - One-Eyed Mace
+192 - ZK-383
+193 - Nothing/May Crash
+194 - Ronin (Bugged Out Type 38/Defaced Chrysanthemum)
+246 - Uberschnalle
+376 - The Hilt
+381 - Barbarossa's Pommel
+640 - Ripsaw
+641 - R.I.P. Saw
+642 - Map-Specific Upgraded Melee (i.e. Red Talon or Ranged Ripsaw)
+657 - Brenner Head
+660 - Shovel
+676 - Charged Zombie Spine
+708 - Red Baron (?)
+709 - Selected SVT-40 (Final Reich), Son Of Nerthus
+742 - Mounted MG 42
