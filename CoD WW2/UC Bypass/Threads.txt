@@ -1,4 +1,0 @@
-s2_mp64_ship.exe
-s2_mp64_ship.exe+0x1c04e0
-s2_sp64_ship.exe
-s2_sp64_ship.exe+0x548f0
