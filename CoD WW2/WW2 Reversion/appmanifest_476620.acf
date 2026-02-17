@@ -1,0 +1,103 @@
+"AppState"
+{
+	"appid"		"476620"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Call of Duty: WWII - Multiplayer"
+	"StateFlags"		"4"
+	"installdir"		"Call of Duty WWII"
+	"LastUpdated"		"<last_updated>"
+	"LastPlayed"		"<last_played>"
+	"SizeOnDisk"		"124787971586"
+	"StagingSize"		"0"
+	"buildid"		"21464652"
+	"LastOwner"		"<your_owner_id>"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"1778335936"
+	"BytesDownloaded"		"1778335936"
+	"BytesToStage"		"1827522910"
+	"BytesStaged"		"1827522910"
+	"TargetBuildID"		"4424521"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"476621"
+		{
+			"manifest"		"7573381829448242101"
+			"size"		"48155420"
+		}
+		"476622"
+		{
+			"manifest"		"8154329818821392120"
+			"size"		"15476610236"
+		}
+		"476623"
+		{
+			"manifest"		"3911700450743968918"
+			"size"		"75086097193"
+		}
+		"476624"
+		{
+			"manifest"		"489158563251885582"
+			"size"		"3555895236"
+		}
+		"631290"
+		{
+			"manifest"		"3285263415718351385"
+			"size"		"14995549249"
+			"dlcappid"		"631290"
+		}
+		"476637"
+		{
+			"manifest"		"8028162714393109806"
+			"size"		"87601972"
+			"dlcappid"		"631290"
+		}
+		"631291"
+		{
+			"manifest"		"296904481379429748"
+			"size"		"6752191377"
+			"dlcappid"		"631291"
+		}
+		"683105"
+		{
+			"manifest"		"7648459970697397152"
+			"size"		"93314682"
+			"dlcappid"		"631291"
+		}
+		"631292"
+		{
+			"manifest"		"4351576780163193852"
+			"size"		"8552675886"
+			"dlcappid"		"631292"
+		}
+		"716452"
+		{
+			"manifest"		"7614730859227322895"
+			"size"		"139880335"
+			"dlcappid"		"631292"
+		}
+	}
+	"InstallScripts"
+	{
+		"476621"		"installscript_476620.vdf"
+	}
+	"SharedDepots"
+	{
+		"228986"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"BetaKey"		"public"
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"BetaKey"		"public"
+		"language"		"english"
+	}
+}

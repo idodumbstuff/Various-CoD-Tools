@@ -1,0 +1,27 @@
+#This reverts CoD WW2 back to 1.25 to return full functionality to mods, trainers, etc.
+#Open up Steam Console via 
+steam://open/console
+#Enter these commands and allow each to download. Check Task Manager or Resource Monitor to verify packages are downloading.
+
+#Main content
+download_depot 476620 476621 8856310015539520582
+download_depot 476620 476622 1259606637710494278
+download_depot 476620 476623 2715207186595524184
+
+#DLC content
+download_depot 476620 631290 7706473902797624823
+download_depot 476620 631291 9062120421389477313
+download_depot 476620 631292 6450478130810599415
+
+#English depots so you may have to find your respective language pack details at https://steamdb.info/app/476620/depots/
+download_depot 476620 476624 1563345585010965365
+
+#English DLC packs
+download_depot 476620 476637 2008250786836015037
+download_depot 476620 683105 6065093508085724024
+download_depot 476620 716452 3841746148380098644
+
+#After packages are done downloading, close Steam completely, open up "~\Steam\steamapps\content\app_476620\" and pull each folder's contents directly into your WW2 main directory, overwriting duplicates.
+#Use Threads.Old.txt for UC Bypass after renaming and replacing updated Threads.txt file.
+#Download appmanifest_476620.acf; open in Notepad and replace values for LastUpdated, LastPlayed, and LastOwner to match the values from your appmanifest_476620.acf found in your Steam game install directory; afterwards replace your manifest with the new manifest and start game
+#Game will perform in-game update(s) but will load properly
