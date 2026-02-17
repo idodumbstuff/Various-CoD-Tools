@@ -23,5 +23,5 @@ download_depot 476620 716452 3841746148380098644
 
 #After packages are done downloading, close Steam completely, open up "~\Steam\steamapps\content\app_476620\" and pull each folder's contents directly into your WW2 main directory, overwriting duplicates.
 #Use Threads.Old.txt for UC Bypass after renaming and replacing updated Threads.txt file.
-#Download appmanifest_476620.acf; open in Notepad and replace values for LastUpdated, LastPlayed, and LastOwner to match the values from your appmanifest_476620.acf found in your Steam game install directory; afterwards replace your manifest with the new manifest and start game
-#Game will perform in-game update(s) but will load properly
+#Download appmanifest_476620.acf; open in Notepad and replace values for LastUpdated, LastPlayed, and LastOwner to match the values from your appmanifest_476620.acf found in your Steam game install directory; afterwards replace your manifest with the new manifest and start game.
+#Game will perform in-game update(s) but will load properly.
